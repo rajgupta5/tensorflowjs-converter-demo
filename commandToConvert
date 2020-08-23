@@ -1,0 +1,1 @@
+tensorflowjs_converter --input_format=tf_frozen_model --output_node_names='detection_boxes,detection_scores,detection_classes,num_detections' AnprModel/saved_model.pb JsModelConvertedFromPB2/AnprModel
