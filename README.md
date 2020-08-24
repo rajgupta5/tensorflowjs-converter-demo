@@ -3,7 +3,9 @@
 Steps to convert PB model to tensorflow js
 ===========================================
 
-URL to refer: https://www.tensorflow.org/js/guide/conversion
+URL to refer: 
+- https://www.tensorflow.org/js/guide/conversion
+- https://www.tensorflow.org/js/demos
 
 1. Create a new conda environment
   - conda create -n tensorflowjs python==3.6.9
